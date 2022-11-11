@@ -1,0 +1,9 @@
+.whitespace {
+    white-space:pre-wrap;
+    color:blue;
+    display:flex;
+    justify-content: center;
+    padding:50px 50px 50px 50px;
+    border:1px solid #7743DB;
+    background-color:#EFF5F5
+}
